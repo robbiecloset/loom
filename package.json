@@ -1,0 +1,17 @@
+{
+  "name": "loom-max",
+  "version": "1.0.0",
+  "description": "A port of the loom sequencer for norns to Max 8",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Corrigan",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {}
+}
